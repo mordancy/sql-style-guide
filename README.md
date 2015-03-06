@@ -1,5 +1,7 @@
 # The SQL style guide
 
+check also: https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-SQL
+
 The goal of this style guide is to improve the readability of SQL queries.
 
 ## Formatting
