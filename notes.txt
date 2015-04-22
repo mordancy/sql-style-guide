@@ -1,0 +1,18 @@
+
+
+
+Order of operations:
+1.SELECT 
+2.FROM clause (on)
+3.WHERE clause
+4.GROUP BY clause
+5.HAVING clause
+6.SELECT clause
+7.ORDER BY clause 
+
+Left align
+spaces not tabs
+align fields
+comma then field
+join when possible and not tablename comma tablename
+
